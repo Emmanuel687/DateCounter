@@ -23,7 +23,7 @@ The application will then be served on port 3000. You can open a web browser and
 
 3.Understand how eventHandlers is used [onClick].
 
-4.Understand how to control element state within a component.
+4.Understand how to control element state within a component
 
 
 # Author
