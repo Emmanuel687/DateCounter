@@ -1,5 +1,5 @@
 # Datecounter
-This is a simple React application that counts down the number of days until a specified date.A user can reset the number of days.The application uses event handlers, React state, and conditional rendering to achieve its functionality.
+This is a simple React application that counts down the number of days until a specified date.A user can reset the number of days.The application uses event handlers, React state, and conditional rendering to achieve its functionality.. 
 
 # Getting Started
 To run the application, you will need to have Node.js and NPM installed. Once you have those installed, you can run the following commands to install the dependencies and start the application:
