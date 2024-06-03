@@ -1,4 +1,4 @@
-# Datecounter
+# Datecounter.
 This is a simple React application that counts down the number of days until a specified date.A user can reset the number of days.The application uses event handlers, React state, and conditional rendering to achieve its functionality.. 
 
 # Getting Started
